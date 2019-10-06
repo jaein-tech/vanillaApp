@@ -1,9 +1,20 @@
 body {
     background-color: #2c3e50;
+    color: black;
+    padding: 0px;
+    margin: 0px;
 }
 
-body  {
-    color: #34495e;
+body .main__box {
+    position: absolute;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+    margin: -150px 0px 0px -100px;
+    top: 50%;
+
+    left: 50%;
+    padding: 5px;
 }
 
 .form,
